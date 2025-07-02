@@ -1,0 +1,4 @@
+vlib work
+vlog  Wrapper_tb.sv CNN_wrapper.sv 
+vsim -voptargs=+acc work.cnn_pipeline_wrapper_tb 
+add wave *

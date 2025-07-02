@@ -1,0 +1,315 @@
+{E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/batch_norm_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/batch_norm_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_batch_norm_fsm
+
+Top level modules:
+	tb_batch_norm_fsm
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_bn_fifo.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_bn_fifo.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module buffer
+
+Top level modules:
+	buffer
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/line_buffer_FIFO.sv} {1 {vlog -work work -vopt -sv -stats=none {E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\line_buffer_FIFO.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module line_buffer
+
+Top level modules:
+	line_buffer
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_array_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_array_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_mac_array
+
+Top level modules:
+	tb_mac_array
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_relu_max_fifo.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_relu_max_fifo.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_relu_max_fifo
+
+Top level modules:
+	reg_relu_max_fifo
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/PE_ControlUnit.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/PE_ControlUnit.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PE_ControlUnit
+
+Top level modules:
+	PE_ControlUnit
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div_tb.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Div_tb
+
+Top level modules:
+	Div_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/conv_top_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/conv_top_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_conv2d_top
+
+Top level modules:
+	tb_conv2d_top
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/Wrapper_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\Wrapper_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cnn_pipeline_wrapper_tb
+
+Top level modules:
+	cnn_pipeline_wrapper_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/weight_bram.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/weight_bram.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bram
+
+Top level modules:
+	bram
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/line_buffer_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/line_buffer_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_line_buffer
+
+Top level modules:
+	tb_line_buffer
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/line_buffer_mac_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/line_buffer_mac_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_conv2d_top_line_mac
+
+Top level modules:
+	tb_conv2d_top_line_mac
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/FIFO_Weights.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/FIFO_Weights.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module weights_fifo
+
+Top level modules:
+	weights_fifo
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/conv2d_top.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/conv2d_top.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module conv2d_top
+** Warning: E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/conv2d_top.sv(18): (vlog-13314) Defaulting port 'kernel_weights' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	conv2d_top
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_array.sv} {2 {vlog -work work -vopt -sv -stats=none {E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\mac_array.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mac_array
+** Warning: E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\mac_array.sv(14): (vlog-13314) Defaulting port 'input_feature_map' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\mac_array.sv(16): (vlog-13314) Defaulting port 'kernel_weights' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	mac_array
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/ReLU.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/ReLU.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module relu
+
+Top level modules:
+	relu
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_bnfifo_bn.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_bnfifo_bn.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_bnfifo_bn
+
+Top level modules:
+	reg_bnfifo_bn
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_fifo_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_fifo_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_maxpool_buffer
+
+Top level modules:
+	tb_maxpool_buffer
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module max_pool_2x2
+** Warning: E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool.sv(8): (vlog-13314) Defaulting port 'maxpool_fifo_out' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	max_pool_2x2
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cordic_div_tb
+
+Top level modules:
+	cordic_div_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fc_controller.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fc_controller.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fc_controller
+
+Top level modules:
+	fc_controller
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BN_BRAM.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BN_BRAM.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dual_port_bn_bram
+
+Top level modules:
+	dual_port_bn_bram
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BRAM.sv} {1 {vlog -work work -vopt -sv -stats=none {E:\EECE\EECE 4th year\Grad project\CNN_final_version'\CNN\RTL\BRAM.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PingPongBRAM
+
+Top level modules:
+	PingPongBRAM
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_fifo.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_fifo.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module maxpool_buffer
+
+Top level modules:
+	maxpool_buffer
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/FIFO_Weights_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/FIFO_Weights_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module weights_fifo_tb
+
+Top level modules:
+	weights_fifo_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_bn_relu.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_bn_relu.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_bn_relu
+
+Top level modules:
+	reg_bn_relu
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/master_controller.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/master_controller.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pipeline_controller
+
+Top level modules:
+	pipeline_controller
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BRAM_WEIGHTS.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BRAM_WEIGHTS.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bram_weights
+
+Top level modules:
+	bram_weights
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/CNN_wrapper_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/CNN_wrapper_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CNN_wrapper_tb
+
+Top level modules:
+	CNN_wrapper_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/System_ControlUnit.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/System_ControlUnit.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module System_ControlUnit
+
+Top level modules:
+	System_ControlUnit
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/PE_Wrapper.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/PE_Wrapper.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cnn_pipeline_wrapper
+
+Top level modules:
+	cnn_pipeline_wrapper
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/maxpool_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module maxpool2x2_tb
+
+Top level modules:
+	maxpool2x2_tb
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_unit.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/mac_unit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mac_unit
+
+Top level modules:
+	mac_unit
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_maxfifo_maxpool.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_maxfifo_maxpool.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_maxfifo_maxpool
+** Warning: E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_maxfifo_maxpool.sv(9): (vlog-13314) Defaulting port 'window_maxfifo' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	reg_maxfifo_maxpool
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/activation_relu.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/activation_relu.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module activation_relu
+
+Top level modules:
+	activation_relu
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_buffer_mac.sv} {2 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_buffer_mac.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_buffer_mac
+** Warning: E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_buffer_mac.sv(12): (vlog-13314) Defaulting port 'window_out_lb' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	reg_buffer_mac
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BRAM_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/BRAM_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_bram_images
+
+Top level modules:
+	tb_bram_images
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/CNN_wrapper.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/CNN_wrapper.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CNN_wrapper
+
+Top level modules:
+	CNN_wrapper
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/pipelined_fc_network.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/pipelined_fc_network.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pipelined_fc_network
+
+Top level modules:
+	pipelined_fc_network
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/div.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cordic_div
+
+Top level modules:
+	cordic_div
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_mac_bnfifo.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/reg_mac_bnfifo.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_mac_bnfifo
+
+Top level modules:
+	reg_mac_bnfifo
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fully_connected_layer_top.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fully_connected_layer_top.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fc_layer_top
+
+Top level modules:
+	fc_layer_top
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fifo.v} {1 {vlog -work work -vopt -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/fifo.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/bram_weights_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/EECE/EECE 4th year/Grad project/CNN_final_version'/CNN/RTL/bram_weights_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bram_weights_tb
+
+Top level modules:
+	bram_weights_tb
+
+} {} {}}
